@@ -222,7 +222,6 @@ int main(void)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 <img width="853" height="745" alt="Screenshot 2025-09-22 094813" src="https://github.com/user-attachments/assets/fb5bcd08-1466-4871-bc2e-f9bf2f99f621" />
-<img width="1518" height="1036" alt="ChatGPT Image Aug 4, 2026, 09_32_51 AM" src="https://github.com/user-attachments/assets/87593e33-fb6c-4b09-9573-3c1bcd6119a3" />
 
  
 ## Result :
